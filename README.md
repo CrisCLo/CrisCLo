@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrisCLo
+- 👋 Hi, I’m Cristian Charette-Lopez
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning back-end languages like Python, C,C++ and C#
 - 💞️ I’m looking to collaborate on different projects that can help me improve my programming skills
