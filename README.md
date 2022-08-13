@@ -1,4 +1,4 @@
-Hoping to explore different fields of Computer Science to discoverinterests.
+Hoping to explore different fields of Computer Science to discover interests.
 
 Currently working with the Unity Game Engine and C# to develop small games as personal projects.
 
